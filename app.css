@@ -1,0 +1,11 @@
+body {
+	height: 800px;
+	width: 100%;
+	background-color: #CCC;
+}
+
+h1 {
+	color: red;
+	font-weight: 400;
+	text-align: center;
+}
