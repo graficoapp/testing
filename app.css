@@ -9,3 +9,9 @@ h1 {
 	font-weight: 400;
 	text-align: center;
 }
+
+p {
+	color: yellow;
+	font-size: 2em;
+	text-align: center;
+}
